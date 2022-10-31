@@ -8,4 +8,5 @@ echo "Hoşgeldiniz Sayın " .$_SESSION["username"];
 echo "<a href='exit.php'>Logout</a>"
 
 
+
 ?>
